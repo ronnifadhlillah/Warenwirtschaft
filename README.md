@@ -1,7 +1,4 @@
 # Warenwirtschaft
- WW for all
+ WW for all. If you're using CS ERP you can used it's wwl file format.
 
 - purchaseResume.wwl --> Purchase format generator. Under statistic/list generator.
-- ProcurementBook.wwl --> Buyer book report.
-- salesReport.wwl --> Sales report on the year.
-- deliveryNote.wwl --> DN book.
